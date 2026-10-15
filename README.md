@@ -2,6 +2,8 @@
 
 基于 Stanford CS329Z《Engineering AI Agents》HW1 的 AI 辅助学习实现：从提示词流水线开始，逐步构建检索、工具调用、会话循环、记忆与人工确认。**这是个人学习仓库，与 Stanford 官方无隶属关系。**
 
+[课程主页](https://cs329z.stanford.edu/) · [官方作业仓库](https://github.com/cs329z/assignment1-harness) · [HW1 题目 PDF（固定版本）](https://github.com/cs329z/assignment1-harness/blob/c6cab03d161e4e8db8a9e2c12caf8e353b079beb/cs329z_assignment1_harness.pdf)
+
 **当前状态：P1–P14 有实现；P15 有历史评测结果；P16 field notes、P17 design memo 尚未完成。** 本仓库公开展示学习快照。课程完整答案的公开规则未得到明确确认，不能把AI使用许可或上游MIT自动解读成学生解答公开许可。
 
 **离线核验：282通过、4跳过、0失败。** 4项都是依赖未分发真实邮件档案的BM25测试；没有运行live模型测试或P15模拟评测。这证明脚本化接口行为，不证明真实模型答题质量、沙箱安全或课程得分。[详细证据](reports/local-deterministic-summary.json) · [审查及已知问题](AUDIT.md)
