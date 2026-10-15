@@ -1,0 +1,33 @@
+{
+  "zip_sha256": "e197054cfea8783704d2aefa8799c815ec114ac3731b466427dfd6b5630403a9",
+  "original_internal_checksums_verified": 128,
+  "python_files": 59,
+  "syntax_errors": [],
+  "secret_pattern_findings": [],
+  "non_example_email_domain_locations": [
+    {
+      "file": "repo/hw1.txt",
+      "domains": [
+        "enron.com"
+      ]
+    },
+    {
+      "file": "repo/tests/fixtures/terminal_questions.json",
+      "domains": [
+        "enron.com"
+      ]
+    },
+    {
+      "file": "repo/tests/fixtures/personas/09-coding-no-python.json",
+      "domains": [
+        "enron.com"
+      ]
+    },
+    {
+      "file": "repo/tests/fixtures/personas/20-coding-big-listing.json",
+      "domains": [
+        "enron.com"
+      ]
+    }
+  ]
+}

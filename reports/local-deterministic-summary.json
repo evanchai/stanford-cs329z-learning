@@ -1,0 +1,59 @@
+{
+  "date": "2026-10-15",
+  "python": "3.11.15",
+  "counts": {
+    "passed": 282,
+    "skipped": 4
+  },
+  "modules": {
+    "tests.test_agent_loop": {
+      "passed": 31
+    },
+    "tests.test_bm25": {
+      "passed": 14,
+      "skipped": 4
+    },
+    "tests.test_cardinal": {
+      "passed": 5
+    },
+    "tests.test_compaction": {
+      "passed": 6
+    },
+    "tests.test_daily_digest": {
+      "passed": 8
+    },
+    "tests.test_email_qa": {
+      "passed": 12
+    },
+    "tests.test_guardrails": {
+      "passed": 10
+    },
+    "tests.test_interactive": {
+      "passed": 15
+    },
+    "tests.test_memory": {
+      "passed": 7
+    },
+    "tests.test_priority": {
+      "passed": 25
+    },
+    "tests.test_search_docs": {
+      "passed": 36
+    },
+    "tests.test_terminal": {
+      "passed": 9
+    },
+    "tests.test_tool_protocol": {
+      "passed": 60
+    },
+    "tests.test_tool_registry": {
+      "passed": 44
+    }
+  },
+  "real_lm_attempts": 0,
+  "network_attempts": 0,
+  "live_tests_run": false,
+  "simulation_tests_run": false,
+  "scope": "Official non-live tests excluding test_sim_eval.py; archive-dependent tests skipped",
+  "source_sha256": "e197054cfea8783704d2aefa8799c815ec114ac3731b466427dfd6b5630403a9"
+}

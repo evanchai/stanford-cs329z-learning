@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-15",
+  "scan_scope": "public-preview directory only; finite patterns, not a guarantee",
+  "private_or_secret_pattern_findings": [],
+  "non_example_email_locations": [],
+  "original_package_source_files_changed": [],
+  "test_counts": {
+    "tests": "286",
+    "failures": "0",
+    "errors": "0",
+    "skipped": "4"
+  },
+  "live_or_simulation_run": false,
+  "excluded_persona_count": 2,
+  "remaining_persona_count": 18,
+  "original_all_python_source_files_changed": [],
+  "broken_preview_links_excluding_upstream": [],
+  "final_checks": "Clean public snapshot authorized for publication; no original chat/history included."
+}

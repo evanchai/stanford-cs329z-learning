@@ -1,0 +1,9 @@
+{
+  "patch_commits_reversed": 24,
+  "official_blobs_match": 107,
+  "mismatches": [],
+  "extra_after_reversal": [
+    "hw1.txt"
+  ],
+  "official_blob_count": 109
+}
